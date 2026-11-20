@@ -505,7 +505,7 @@ GameObject:
   - component: {fileID: 602182126}
   - component: {fileID: 602182125}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: CanvasSceneChange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1694,7 +1694,7 @@ GameObject:
   - component: {fileID: 1829632084}
   - component: {fileID: 1829632083}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: CanvasWelcome
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
